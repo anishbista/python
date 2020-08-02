@@ -19,7 +19,7 @@ print(name .islower())
 print(name .index("i"))
 
 #to get string at specificed position
-print(name [4])
+print("number " + name [4])
 
 #to replace string with another
 print(name .replace("nish" , "shish"))
