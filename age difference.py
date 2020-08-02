@@ -2,9 +2,9 @@ import random
 import datetime
 now = datetime.datetime.now()
 random_sentences = ["dont talk about future you may die in 2020 ",
-                    "are you from duture", 
+                    "are you from future", 
                     "are you mad", 
-                    "this is bullshot man fuck off"]
+                    "this is bullshit man fuck off"]
 year = input("Enter your birth year in AD \n")
 year = int(year)
 if(year > now.year):
