@@ -2,7 +2,7 @@ import random
 import datetime
 now = datetime.datetime.now()
 random_sentences = ["dont talk about future you may die in 2020 ",
-                    "are you from future", 
+                    "Are you from future", 
                     "are you mad", 
                     "this is bullshit man fuck off"]
 year = input("Enter your Birth Year in AD \n")
